@@ -3,6 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+ids/
+spotify_million_playlist_dataset/
 
 # Other files and folders
 .settings/
