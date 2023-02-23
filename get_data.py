@@ -6,24 +6,14 @@ import json
 import os
 from tqdm import tqdm
 import re
-
-#read cid from file
-with open("ids/cid.txt", "r") as file:
-    cid = file.read()
-
-#read secret from file
-with open("ids/secret.txt", "r") as file:
-    secret = file.read()
-
-#Authentication - without user
-client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
-sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
+from multiprocessing import Pool
 
 #function to write the songs to a csv file
-def write_songs_to_csv(directory = 'spotify_million_playlist_dataset/data/', write_directory = '',num_files = 1):
+def write_songs_to_csv(directory = 'spotify_million_playlist_dataset/data/', write_directory = 'playlist_dataframes/',file1_idx = 0, file2_idx = 1):
     file_names = os.listdir(directory)
     # opening the number of files specified in the range
-    for i in range(0, num_files):
+    for i in range(file1_idx, file2_idx):
+
         with open(directory + file_names[i], "r") as file:
 
             #load the json file
@@ -82,15 +72,42 @@ def write_songs_to_csv(directory = 'spotify_million_playlist_dataset/data/', wri
                 #drop unnecessary columns
                 song_df.drop(["analysis_url", "track_href", "type", 'uri'], axis=1, inplace=True)
 
+                #defining file name
+                file_name = re.search('\d+-\d+', file_names[i]).group()
                 #get the playlist id
-                pid = re.search('\d+', file_names[i])
+                pid = re.search('\d+', file_name)
 
                 #write the dataframe to a csv file
                 if int(playlist["pid"]) == int(pid.group()):
-                    song_df.to_csv(write_directory + file_names[i] + '.csv', mode='w', header=True, index=False)
+                    song_df.to_csv(write_directory + file_name + '.csv', mode='w', header=True, index=False)
                 else:
-                    song_df.to_csv(write_directory + file_names[i] + '.csv', mode='a', header=False, index=False)
+                    song_df.to_csv(write_directory + file_name + '.csv', mode='a', header=False, index=False)
 
-os.makedirs('playlist_dataframes', exist_ok=True) 
 
-write_songs_to_csv(num_files=1, write_directory='playlist_dataframes/', directory='spotify_million_playlist_dataset/data/')
+def main():
+    #read cid from file
+    with open("ids/cid.txt", "r") as file:
+        cid = file.read()
+
+    #read secret from file
+    with open("ids/secret.txt", "r") as file:
+        secret = file.read()
+    #Authentication - without user
+    client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
+    sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
+    
+    os.makedirs('playlist_dataframes', exist_ok=True)
+
+
+
+#use multiprocessing to write the songs to csv files
+if __name__ == '__main__':
+
+
+    p = Pool()
+    p.starmap(write_songs_to_csv, [(0, 1), (1, 2), (2, 3), (3, 4)])
+    p.close()
+    p.join()
+
+
+#write_songs_to_csv(file1_idx=0,file2_idx=1, write_directory='playlist_dataframes/', directory='spotify_million_playlist_dataset/data/')

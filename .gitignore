@@ -5,7 +5,7 @@ bin-release/
 [Bb]in/
 ids/
 spotify_million_playlist_dataset/
-data/
+
 
 # Other files and folders
 .settings/
