@@ -1,0 +1,137 @@
+danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,id,duration_ms,time_signature,artist_name,track_name,artist_popularity,track_popularity,artist_genres,playlist_name
+0.615,0.114,8,-17.285,1,0.0357,0.926,4e-06,0.166,0.401,101.189,6QHYEZlm9wyfXfEM1vSu1P,277107,4,Bob Dylan,Boots of Spanish Leather,74,46,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.39,0.31,5,-14.545,1,0.0676,0.794,0.0,0.379,0.584,177.515,3RkQ3UwOyPqpIiIvGVewuU,330533,4,Bob Dylan,Mr. Tambourine Man,74,59,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.505,0.258,11,-12.193,0,0.0297,0.805,0.0,0.12,0.641,141.003,0ju1jP0cSPJ8tmojYBEI89,254305,4,Loggins & Messina,Danny's Song,54,60,"['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Bob Dylan
+0.567,0.198,4,-18.681,1,0.0327,0.919,0.000871,0.135,0.321,92.467,7ny2ATvjtKszCpLpfsGnVQ,412200,4,Bob Dylan,A Hard Rain's A-Gonna Fall,74,49,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.38,0.0993,2,-20.567,1,0.0509,0.914,2.32e-05,0.0605,0.44,174.874,18GiV1BaXzPVYpp9rmOg0E,165427,4,Bob Dylan,Blowin' In the Wind,74,65,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.579,0.479,5,-10.348,1,0.0294,0.206,0.00211,0.163,0.937,135.459,0wfBooQ6QtDm63UIyIcDIj,177200,4,Bob Dylan,John Wesley Harding,74,29,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.383,0.224,2,-16.99,1,0.0274,0.768,0.0,0.087,0.466,102.94,3xNO6JUk9ySYjxuqzcZYRB,288000,4,Bob Dylan,"If You See Her, Say Hello",74,46,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.666,0.617,7,-10.851,1,0.0628,0.565,0.0,0.0498,0.764,105.648,5ka7NFOlZUpVLJmA2tO0o4,389800,4,Bob Dylan,Bob Dylan's 115th Dream,74,35,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.702,0.56,4,-12.323,1,0.0342,0.571,0.0,0.109,0.889,125.452,2FDTgrYDUdQKyGmtynEk90,171107,4,Bob Dylan,Love Minus Zero,74,41,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.717,0.804,5,-7.563,1,0.0342,0.664,1.02e-05,0.349,0.488,121.017,2GbmNHjKB1HxSnyobburxg,165933,4,The Lumineers,Classy Girls,79,0,"['folk-pop', 'pop', 'stomp and holler']",Bob Dylan
+0.607,0.142,7,-23.455,1,0.0382,0.843,0.000197,0.121,0.305,118.867,4K1imZQQ0yKtJ40vGmUajS,220400,4,Bob Dylan,Girl from the North Country,74,63,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.624,0.692,9,-5.185,0,0.339,0.221,0.0,0.153,0.349,87.042,73AElRO42LtQlBId3tA2Oh,205560,4,JAY Z,03' Bonnie & Clyde,86,0,"['east coast hip hop', 'hip hop', 'rap']",Bob Dylan
+0.476,0.475,5,-7.268,1,0.0284,0.419,0.0,0.134,0.228,134.971,3CPRPpkv2p7r3EYdYM7jF3,274213,3,Luis Fonsi,Que Quieres De Mi,77,0,"['latin pop', 'puerto rican pop']",Bob Dylan
+0.831,0.61,11,-8.925,1,0.0478,0.0338,0.196,0.167,0.705,125.0,3mWFl8hFKRLl6IuY5ayi3b,358573,4,Parra for Cuva,Wicked Games,60,28,"['downtempo', 'electronica', 'new french touch', 'tropical house']",Bob Dylan
+0.431,0.065,1,-14.558,1,0.0398,0.93,0.0,0.0917,0.106,142.55,5OFcjrC1OiRSBylQgF5HDD,307000,4,The Lumineers,Slow It Down,79,48,"['folk-pop', 'pop', 'stomp and holler']",Bob Dylan
+0.633,0.357,5,-9.366,0,0.0264,0.105,0.0,0.133,0.674,104.938,3aqTTareFsrd7gMeV7Qvif,245200,4,Bee Gees,How Deep Is Your Love,79,0,"['disco', 'mellow gold', 'soft rock']",Bob Dylan
+0.857,0.561,9,-7.288,1,0.0292,0.435,0.0,0.0831,0.76,99.989,3YmA3gZqlXl0MkwhkVKxRy,272576,4,Maná,Mi verdad - feat. Shakira,79,69,"['latin arena pop', 'latin pop', 'latin rock', 'mexican pop', 'mexican rock', 'rock en espanol']",Bob Dylan
+0.39,0.0235,5,-19.695,1,0.0345,0.937,0.00128,0.099,0.155,133.403,5iGleL7HpEThuuYQ3us2jh,125585,5,Henry Mancini,Moon River(Vocal Audrey Hepburn),58,54,"['adult standards', 'classic soundtrack', 'easy listening', 'lounge']",Bob Dylan
+0.569,0.372,2,-7.022,1,0.0515,0.809,0.0,0.3,0.5,123.411,4tsUpfcr6bSM4PIIFQGkQF,129813,4,Frank Sinatra,I've Got The World On A String,80,0,"['adult standards', 'easy listening', 'lounge']",Bob Dylan
+0.584,0.802,2,-8.03,1,0.0784,0.149,0.0,0.0683,0.835,114.172,47y8hRlWLEJ4VafE6LMjEZ,132013,4,Elvis Presley,A Little Less Conversation,82,55,"['rock-and-roll', 'rockabilly']",Bob Dylan
+0.655,0.405,2,-9.825,1,0.036,0.808,1.33e-06,0.116,0.696,105.272,0tHcXWIYt99GY8BONrPIfA,115280,4,Elvis Presley,That's All Right,82,55,"['rock-and-roll', 'rockabilly']",Bob Dylan
+0.334,0.477,0,-8.806,1,0.0276,0.618,4.17e-06,0.312,0.405,179.239,78WVLOP9pN0G3gRLFy1rAa,336200,3,Billy Joel,Piano Man,78,60,"['classic rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",Bob Dylan
+0.506,0.373,0,-9.473,1,0.0347,0.499,4.05e-05,0.323,0.194,121.289,6yjKlmm7vOszkXEUku1EM1,362400,4,Billy Joel,New York State of Mind,78,59,"['classic rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",Bob Dylan
+0.642,0.722,2,-13.031,1,0.0375,0.0444,0.00388,0.122,0.836,172.406,7ojJ4XvqBhBcteM0zjMebT,207440,4,UB40,(I Can't Help) Falling in Love With You,70,67,"['reggae fusion', 'uk reggae']",Bob Dylan
+0.584,0.367,6,-9.638,0,0.0328,0.55,1.38e-05,0.0818,0.588,120.175,1JO1xLtVc8mWhIoE3YaCL0,176293,4,The Turtles,Happy Together,61,72,"['bubblegum pop', 'classic rock', 'folk rock', 'psychedelic rock']",Bob Dylan
+0.623,0.38,11,-15.221,1,0.0309,0.0476,0.0,0.3,0.46,144.882,5ZeKZBB57EnctaXih6hJvE,270227,4,REO Speedwagon,In My Dreams,66,56,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",Bob Dylan
+0.306,0.722,0,-5.963,1,0.034,0.0519,0.0,0.117,0.41,174.732,4rcHWl68ai6KvpXlc8vbnE,200293,4,REO Speedwagon,Keep on Loving You - Remastered,66,69,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",Bob Dylan
+0.262,0.328,4,-12.897,1,0.0376,0.753,0.0,0.227,0.533,207.074,3cVWNLd0uEHkc2tnBoE3Ay,162493,4,Frank Sinatra,Somethin' Stupid,80,0,"['adult standards', 'easy listening', 'lounge']",Bob Dylan
+0.503,0.0486,2,-20.334,1,0.033,0.98,0.000193,0.101,0.237,74.757,1o7eWtDb0VJGQ6rqECTiSF,189753,4,Fred Astaire,The Way You Look Tonight,48,0,"['adult standards', 'lounge', 'swing', 'vintage hollywood', 'vocal jazz']",Bob Dylan
+0.644,0.156,1,-16.529,1,0.0329,0.532,0.0,0.105,0.744,113.96,5RLzsVW6UNiV2YrOlKwzNN,171427,4,Frank Sinatra,Blue Moon - 1998 Digital Remaster,80,53,"['adult standards', 'easy listening', 'lounge']",Bob Dylan
+0.504,0.321,7,-13.807,1,0.0316,0.149,0.000107,0.147,0.577,170.134,1U1GtaJeYwGsPgqV9Me5bb,306200,3,Ray LaMontagne,Hold You in My Arms,65,57,"['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'stomp and holler']",Bob Dylan
+0.408,0.48,9,-11.017,1,0.0266,0.155,1.82e-05,0.0877,0.19,156.344,5WwqdeavrQrbeAMDxGawse,294773,4,REO Speedwagon,Can't Fight This Feeling,66,69,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",Bob Dylan
+0.544,0.332,4,-12.231,1,0.0433,0.0084,0.000396,0.135,0.174,133.782,7IuEjrhTNqxzm3dcINDH7V,193000,4,Bob Dylan,Shooting Star,74,32,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.39,0.649,2,-5.163,1,0.0345,0.172,0.0,0.216,0.144,121.16,0c1gHntWjKD7QShC8s99sq,299760,4,Aerosmith,"I Don't Want to Miss a Thing - From the Touchstone film, ""Armageddon""",79,0,"['album rock', 'classic rock', 'hard rock', 'rock']",Bob Dylan
+0.493,0.643,0,-5.19,1,0.0299,0.512,2.43e-05,0.209,0.3,144.704,3XKbdb9GB6u3hsnUklQTav,321640,4,Brad Paisley,Then,67,58,"['contemporary country', 'country', 'country road']",Bob Dylan
+0.507,0.304,0,-11.096,1,0.0278,0.845,1.03e-05,0.0741,0.195,112.371,1lxzBK93CioCcSndzuTGyn,239767,3,Coldplay,Us Against the World,90,14,"['permanent wave', 'pop']",Bob Dylan
+0.333,0.524,10,-6.788,1,0.0301,0.194,0.0,0.124,0.438,73.393,6HLciiLMPssno4lT4gbObT,170387,4,Eric Church,Love Your Love the Most,73,0,"['contemporary country', 'country', 'country road']",Bob Dylan
+0.494,0.87,2,-4.33,1,0.0413,0.0707,2.98e-05,0.0798,0.504,146.882,3T3Epzn2xHawkZ7uzxR13p,201667,4,Bo Bice,The Real Thing,23,28,['idol'],Bob Dylan
+0.634,0.392,0,-9.265,1,0.0259,0.553,1.04e-05,0.0883,0.587,82.134,5995dMCC91V6Gmgt5u0FUh,197733,4,The Byrds,Lay Lady Lay - Alternative Version,60,39,"['art rock', 'beatlesque', 'blues rock', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock']",Bob Dylan
+0.459,0.498,1,-8.361,0,0.0806,0.0402,1.9e-06,0.355,0.435,116.485,6ME5FEytYm8AJNu94xX4RL,146573,4,Jim Sturgess,"All My Loving - From ""Across The Universe"" Soundtrack",44,0,['hollywood'],Bob Dylan
+0.813,0.854,4,-4.665,0,0.0924,0.00967,1.37e-05,0.0678,0.609,104.503,2UpmD3nDZFD4JrsSPMNqzU,205800,4,*NSYNC,It Makes Me Ill,69,32,"['boy band', 'dance pop']",Bob Dylan
+0.244,0.167,0,-11.76,1,0.0335,0.937,0.00868,0.0939,0.241,72.868,5GBWQszdw6PtAN0Negzut6,193947,4,Ingrid Michaelson,Can't Help Falling In Love - Recorded Live at Daytrotter,62,0,"['acoustic pop', 'ectofolk', 'indiecoustica', 'lilith', 'neo mellow', 'pop rock']",Bob Dylan
+0.328,0.129,5,-13.523,1,0.0286,0.806,3.61e-06,0.105,0.114,84.73,26PnyFUmYdeRG7nQrsTpHc,299333,4,John Mayer,Comfortable - EP Version,80,41,"['neo mellow', 'singer-songwriter']",Bob Dylan
+0.476,0.72,1,-4.357,0,0.0346,0.0102,0.0,0.0639,0.218,99.054,45wBTYlOx3FsuFluuuRRQh,236133,4,Ariana Grande,Love Me Harder,91,0,"['dance pop', 'pop']",Bob Dylan
+0.432,0.59,6,-4.02,1,0.0302,0.198,0.0,0.107,0.233,80.267,2SkJxGM4yeADszDjUzffOf,263467,4,Train,This Ain't Goodbye,74,0,"['dance pop', 'neo mellow', 'pop', 'pop rock']",Bob Dylan
+0.722,0.0504,0,-16.683,1,0.0394,0.932,1.37e-05,0.0732,0.179,100.291,5n4OuxuViGp1DlMAv04gl3,198000,4,The Hound + The Fox,The Moon Song,51,0,[],Bob Dylan
+0.681,0.593,5,-9.327,1,0.0251,0.435,0.000117,0.106,0.731,115.058,7hR5toSPEgwFZ78jfHdANM,250373,4,John Mayer,Half of My Heart,80,61,"['neo mellow', 'singer-songwriter']",Bob Dylan
+0.606,0.441,9,-9.303,1,0.0272,0.326,0.0128,0.116,0.455,66.443,5gbxzSqABThINGDb7vIiwe,332067,3,John Mayer,Edge of Desire,80,57,"['neo mellow', 'singer-songwriter']",Bob Dylan
+0.54,0.643,11,-9.088,0,0.0485,0.302,0.000135,0.0881,0.593,159.929,6OXt9aSIr4DSxSR3Qjrtgp,314853,4,John Mayer,Assassin,80,46,"['neo mellow', 'singer-songwriter']",Bob Dylan
+0.647,0.729,5,-6.251,1,0.0236,0.0206,0.0489,0.134,0.687,94.01,7vFv0yFGMJW3qVXbAd9BK9,249627,4,John Mayer,Your Body Is a Wonderland,80,70,"['neo mellow', 'singer-songwriter']",Bob Dylan
+0.701,0.944,4,-2.986,1,0.0455,0.0755,0.0,0.601,0.792,128.993,5zA8vzDGqPl2AzZkEYQGKh,197707,4,Billy Joel,Uptown Girl,78,75,"['classic rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",Bob Dylan
+0.471,0.494,7,-10.407,1,0.0312,0.387,0.0944,0.617,0.373,79.255,34jOBavlBgAG0ILZOlXmWm,229827,4,Paul McCartney,Maybe I’m Amazed - Remastered 2011,73,0,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",Bob Dylan
+0.468,0.904,7,-4.574,1,0.0494,0.126,3.89e-06,0.165,0.7,167.998,3LbvNFkqDTrE1liGMmZBDL,235387,4,Tim McGraw,Shotgun Rider,72,55,"['contemporary country', 'country', 'country road']",Bob Dylan
+0.881,0.478,4,-10.386,1,0.0304,0.476,0.00574,0.0737,0.803,97.807,1IdTIzkTK6CcpKKgMUGbg7,250840,4,John Mayer,Vultures,80,55,"['neo mellow', 'singer-songwriter']",Bob Dylan
+0.731,0.535,7,-10.581,1,0.0424,0.0292,0.00119,0.0705,0.863,135.028,0Tk2agqmwJajtoX6sCxngb,248640,4,Bruce Springsteen,Fire,78,46,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",Bob Dylan
+0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,6fxVffaTuwjgEk5h9QyRjy,258987,4,Ed Sheeran,Photograph,92,63,"['pop', 'uk pop']",Bob Dylan
+0.355,0.478,0,-8.323,1,0.0335,0.569,2.9e-06,0.194,0.269,102.971,6jsvHrnb4TFp9X4Samx3jD,266920,4,Brad Paisley,She's Everything,67,0,"['contemporary country', 'country', 'country road']",Bob Dylan
+0.675,0.553,7,-7.775,1,0.0486,0.0863,7.58e-06,0.118,0.594,90.02,4ocbH5ZJqajZIpUrqRUoue,239933,4,Train,Meet Virginia,74,58,"['dance pop', 'neo mellow', 'pop', 'pop rock']",Bob Dylan
+0.449,0.737,3,-3.236,1,0.0306,0.000448,0.0,0.104,0.363,76.993,689rf7CrI1hu6EqA7CBDrY,210387,4,Train,Parachute,74,0,"['dance pop', 'neo mellow', 'pop', 'pop rock']",Bob Dylan
+0.481,0.638,0,-5.862,1,0.0276,0.153,0.0,0.154,0.497,79.064,2hKdd3qO7cWr2Jo0Bcs0MA,259933,4,Train,Drops of Jupiter,74,74,"['dance pop', 'neo mellow', 'pop', 'pop rock']",Bob Dylan
+0.512,0.239,2,-15.055,1,0.0353,0.442,0.0,0.093,0.634,141.292,47cdhtxTfp7WvUbDpDeYa2,171093,3,James Taylor,Sweet Baby James,69,0,"['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",Bob Dylan
+0.375,0.219,1,-13.112,1,0.0288,0.78,0.00141,0.109,0.197,143.447,6rfGPGghQL7SJmZPXprXIc,211000,4,Bob Dylan,Make You Feel My Love,74,50,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",Bob Dylan
+0.507,0.277,7,-9.835,1,0.0292,0.695,1.41e-05,0.102,0.255,136.016,4KtUxe5qYZzw7ICJ8T8w2u,255280,4,Eric Church,You Make It Look So Easy,73,0,"['contemporary country', 'country', 'country road']",Bob Dylan
+0.586,0.633,3,-7.688,1,0.0318,0.475,4.29e-06,0.164,0.445,148.984,050iNgNKEUrJboOnH4Jhm6,189800,4,Kenny Chesney,Wild Child (with Grace Potter),72,42,"['contemporary country', 'country', 'country road']",Bob Dylan
+0.592,0.205,9,-14.601,1,0.048,0.896,5.46e-05,0.119,0.378,140.282,2hitsKa8SthKhRJBXUHbIv,179760,4,"Crosby, Stills, Nash & Young",Our House,63,66,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'supergroup']",Bob Dylan
+0.623,0.449,5,-13.333,1,0.0253,0.212,0.0,0.0613,0.572,84.383,5tVA6TkbaAH9QMITTQRrNv,256000,4,Tom Petty,Free Fallin',70,73,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'soft rock']",Bob Dylan
+0.279,0.454,2,-7.733,1,0.0316,0.395,0.0,0.198,0.216,150.661,40tAOP3DPqmVD6L1h45Jp6,274933,4,Frank Sinatra,My Way,80,0,"['adult standards', 'easy listening', 'lounge']",Bob Dylan
+0.27,0.944,4,-4.199,1,0.0975,0.00501,2.05e-05,0.116,0.606,146.347,6hTcuIQa0sxrrByu9wTD7s,269920,4,Bruce Springsteen,Born to Run,78,69,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",Bob Dylan
+0.455,0.646,5,-7.416,1,0.0311,0.0441,0.0,0.102,0.427,117.88,4LKlmGTWGY8SHfIw0c9jQu,347600,4,Bruce Springsteen,Wrecking Ball,78,38,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",Bob Dylan
+0.791,0.7,11,-6.96,1,0.0297,0.201,0.000312,0.0562,0.8,120.741,4z8D58IC56O0JH2B818SkX,279067,4,John Mellencamp,Ain't Even Done With The Night,67,52,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'soft rock']",Bob Dylan
+0.369,0.758,5,-5.871,1,0.0364,0.623,1.78e-05,0.531,0.663,140.71,56lhDZNQ5J47aog6mGKeGk,288720,4,Bruce Springsteen,Thunder Road,78,61,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",Bob Dylan
+0.341,0.842,5,-11.736,1,0.0399,0.0258,1.35e-06,0.563,0.893,153.665,2onCSZebZCcutH8kz8UnMS,240000,4,Bruce Springsteen,No Surrender,78,0,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",Bob Dylan
+0.299,0.584,5,-5.984,1,0.0334,0.374,0.126,0.073,0.183,133.712,3R2q3FCnNIw2XhuEbYtYk6,575653,4,Bruce Springsteen,Jungleland,78,46,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",Bob Dylan
+0.693,0.335,0,-10.863,1,0.0395,0.338,0.000552,0.118,0.623,136.071,6hr4weuSidHy2LNMw8UVJ2,198907,4,Eric Church,Like A Wrecking Ball,73,58,"['contemporary country', 'country', 'country road']",Bob Dylan
+0.546,0.686,5,-8.041,1,0.0839,0.486,0.0,0.331,0.703,137.173,218wztz9mZdDX8Ia1OkUvq,279293,4,Bruce Springsteen,For You,78,35,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",Bob Dylan
+0.88,0.832,11,-5.241,0,0.143,0.172,0.00377,0.0525,0.921,138.057,2IUylG1WDsYWbMwH3HKuQo,283933,4,JAY Z,Big Pimpin' - Radio Edit,86,26,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.49,0.961,8,-1.595,0,0.398,0.0263,0.0,0.535,0.795,173.595,3lPAHV0b53zgRRm9LBgnTY,276920,4,JAY Z,Empire State Of Mind,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.583,0.621,5,-6.902,0,0.0479,0.00972,0.00106,0.181,0.399,140.036,6jG2YzhxptolDzLHTGLt7S,323480,4,Beyoncé,Drunk in Love,89,69,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.676,0.534,2,-6.901,0,0.0831,0.0594,8.59e-06,0.256,0.156,145.082,0YpBHgZ9Pfr4fbiKkP9nj9,338413,4,JAY Z,Holy Grail,86,3,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.636,0.922,1,-1.779,1,0.277,0.287,0.0,0.247,0.459,86.773,6MmT9hje2krkn1twcmtBYu,267520,4,JAY Z,Run This Town,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.624,0.692,9,-5.185,0,0.339,0.221,0.0,0.153,0.349,87.042,73AElRO42LtQlBId3tA2Oh,205560,4,JAY Z,03' Bonnie & Clyde,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.757,0.972,2,-0.99,1,0.286,0.256,5.8e-06,0.0396,0.802,98.809,7LzIsgjOAaixeFQ8ouyoK6,227507,4,JAY Z,I Just Wanna Love U (Give It 2 Me),86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.618,0.844,1,-4.051,0,0.342,0.0178,0.000126,0.0634,0.697,84.411,4h5KBcltGefua73AUPYps7,240627,4,JAY Z,Izzo (H.O.V.A.),86,59,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.569,0.869,3,-5.432,0,0.217,0.0342,0.0,0.0718,0.492,86.62,5kMsjfhYMZ1L9Btuu0AIRx,256387,4,JAY Z,D.O.A. (Death Of Auto-Tune),86,48,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.499,0.88,6,-6.048,0,0.395,0.00684,0.0,0.0991,0.461,92.318,1Kqp9djNwTIhCsMOeRxrYu,234453,4,JAY Z,99 Problems,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.78,0.657,1,-7.149,1,0.317,0.0321,2.56e-06,0.339,0.648,163.969,3IrkbGQCoEPAkzJ0Tkv8nm,245173,4,JAY Z,Dirt Off Your Shoulder,86,61,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.799,0.825,0,-4.113,1,0.352,0.0878,0.00845,0.0271,0.624,77.067,5IVCuswUfdYjl2eQ2FHqUd,239720,4,JAY Z,Hard Knock Life (Ghetto Anthem),86,38,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.43,0.956,10,-1.019,0,0.272,0.0313,0.0,0.315,0.436,105.678,0oi3XBxDxpo6S0NUSOnU1G,223080,4,JAY Z,Show Me What You Got,86,37,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.656,0.923,11,-1.647,1,0.252,0.0356,0.0,0.156,0.67,94.623,7qTHHJ8MeXEKBVuopWdw4b,252107,4,JAY Z,Roc Boys (And The Winner Is)...,86,49,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.671,0.897,6,-4.254,1,0.332,0.0829,0.0,0.159,0.715,104.729,04t8KUfSfNae6iC2yxMzy4,117747,4,JAY Z,Pump It Up (Freestyle),86,37,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.685,0.901,1,-4.215,1,0.264,0.0111,0.0,0.658,0.527,129.855,7anxSM0LSfHScmmfwcLKS9,216093,4,JAY Z,Go Hard (Remix),86,26,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.659,0.75,10,-9.099,0,0.52,0.152,0.0,0.134,0.798,176.153,0M8DrBUSBa1LAELIruCllA,232067,4,JAY Z,This Life Forever,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.738,0.601,9,-9.46,1,0.331,0.411,0.0,0.116,0.66,98.65,2VpRzjlR9Ox28gUAM9zYsU,242573,4,JAY Z,Ain't No Nigga - Original Mix,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.78,0.378,7,-11.481,1,0.464,0.197,0.0,0.0782,0.579,94.895,7touPd4Q2sLaXc6a6OHOm7,317800,4,JAY Z,Can't Knock The Hustle,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.495,0.715,6,-8.855,1,0.497,0.135,1.04e-06,0.0748,0.742,189.876,5LnEJ9AkSrp2uxISQtj0eo,275640,4,JAY Z,Brooklyn's Finest,86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.744,0.865,11,-4.661,0,0.35,0.0578,0.0,0.283,0.591,162.065,0R0zZnqPg7yOWb4PRmW8nC,266733,4,JAY Z,Where I'm From,86,46,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.786,0.811,7,-7.422,1,0.267,0.224,0.0,0.357,0.356,98.256,65gMVplMNmDkbE6wwsDBD4,278800,4,JAY Z,Do It Again (Put Ya Hands Up),86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.87,0.574,1,-6.747,1,0.393,0.0106,0.0,0.209,0.46,90.099,1FkgoPdajl8gwC1hlyvHtC,286133,4,JAY Z,"Money, Cash, Hoes",86,44,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.764,0.724,1,-4.748,0,0.368,0.441,1.27e-06,0.177,0.826,84.797,5ASZFbCod633wLragmPYTj,336133,4,JAY Z,Renegade,86,55,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.627,0.904,2,-1.693,1,0.33,0.0132,0.0,0.182,0.821,85.472,1ErzaSeWk9TvWdRgrFYwl0,312627,4,JAY Z,Takeover,86,13,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.716,0.832,1,-3.539,1,0.368,0.164,0.0,0.667,0.604,82.136,5TTFD5DuFhQOrs0RJxGDbD,264067,4,JAY Z,Moment Of Clarity,86,48,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.588,0.865,2,-3.465,1,0.385,0.0654,0.0,0.359,0.503,88.589,75JwFVMnX88ypgshWYBSYL,295160,4,JAY Z,What More Can I Say,86,44,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.839,0.611,1,-9.088,0,0.34,0.337,0.0,0.0521,0.762,88.516,28EyC3McZR57kBUaPAxk7A,234760,5,Jay-Z,"Nigga what, Nigga Who",86,0,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.625,0.604,1,-5.385,1,0.252,0.0359,0.00135,0.124,0.195,97.94,0zMgwXDyZ5qaqXMLW3h4lr,190813,4,JAY Z,Venus Vs. Mars,86,38,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.747,0.47,1,-9.08,1,0.0819,0.228,9.86e-05,0.159,0.555,83.615,22hDixNxweqNOeLR7dZS7R,301173,4,Beyoncé,"Me, Myself and I",89,5,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.596,0.767,8,-8.96,1,0.146,0.00255,0.0267,0.437,0.566,155.881,6M9A67YCLVkJ0WxMBbp4Ov,215173,4,Beyoncé,Video Phone,89,36,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.711,0.439,1,-5.156,1,0.138,0.114,0.0,0.0573,0.326,78.074,7M4F4e8lI8Dkod0IEtBx7x,283520,4,Beyoncé,Ego - Remix,89,38,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.474,0.391,1,-7.781,1,0.263,0.145,0.0,0.201,0.526,78.798,5iaVupGhrGVtwBvmGxxYih,235680,4,Beyoncé,Ego,89,44,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.365,0.382,6,-7.344,1,0.0295,0.382,5.08e-06,0.0661,0.268,148.363,1pzJboOZaDNwshBnOlNh3a,273880,3,Beyoncé,1+1,89,53,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.474,0.683,7,-5.585,1,0.397,0.00161,0.000123,0.309,0.509,169.51,5xz4NjWqe4bvIqJNzgKKPs,272707,4,Beyoncé,Upgrade U,89,31,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.638,0.377,9,-11.195,1,0.346,0.114,9.19e-06,0.302,0.562,112.439,4iE0yDu3gwAzSyaRNavj2V,259093,4,Beyoncé,Yes,89,0,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.869,0.546,6,-6.755,0,0.327,0.0512,0.0113,0.0541,0.855,146.118,6GQuF9vzJAVs7fYN9ftBdP,200320,4,Beyoncé,Diva,89,50,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.576,0.697,10,-4.192,1,0.326,0.0286,1.15e-06,0.167,0.501,175.906,07lxDm1s8FVO4GF54Nooiz,227667,4,Beyoncé,Irreplaceable,89,54,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.716,0.811,6,-7.503,0,0.212,0.0328,0.000517,0.0649,0.786,118.005,3FPUFltTjg6ClUL2wr9ux6,223987,4,Beyoncé,End of Time,89,58,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.825,0.832,5,-5.853,0,0.0403,0.00587,0.000789,0.114,0.713,122.021,00BuKLSAFkaEkaVAgIMbeA,220627,4,Lady Gaga,Telephone,89,0,"['art pop', 'dance pop', 'pop']",ON THE RUN
+0.456,0.742,2,-8.39,1,0.481,0.0534,0.000223,0.0837,0.428,168.507,4pVFPKuNNZtKMq7rQjYh32,203200,4,Beyoncé,Ring The Alarm,89,19,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.521,0.552,6,-5.628,0,0.327,0.317,2.25e-05,0.381,0.936,97.535,5JZpQuRIX8MTiKwuELjTlx,221293,4,Destiny's Child,"Independent Women, Pt. 1 - Pasadena Remix",73,58,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b', 'urban contemporary']",ON THE RUN
+0.652,0.749,0,-5.248,1,0.0886,0.0848,0.0,0.604,0.651,94.103,1z6WtY7X4HQJvzxC4UgkSf,267413,4,Beyoncé,Love On Top,89,71,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.705,0.796,7,-6.845,1,0.267,0.0708,0.0,0.388,0.864,166.042,6d8A5sAx9TfdeseDvfWNHd,210453,4,Beyoncé,Check On It - feat. Bun B and Slim Thug,89,32,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.426,0.584,1,-5.293,1,0.296,0.0383,0.0,0.192,0.272,193.438,557un1HgwYMuqfWGSTmnxw,192587,4,Beyoncé,Single Ladies (Put a Ring on It),89,64,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.865,0.829,0,-6.981,0,0.315,0.0673,0.0,0.253,0.651,96.511,7LWbC1x1fd6IPHUu9yzzwE,205813,4,Beyoncé,Get Me Bodied,89,19,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.664,0.758,2,-6.583,0,0.21,0.00238,0.0,0.0598,0.701,99.259,0WqIKmW4BTrj3eJFmnCKMv,235933,4,Beyoncé,Crazy In Love,89,18,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.665,0.787,5,-5.73,1,0.151,0.31,0.0,0.219,0.699,167.351,3axkNosdVQLZiq1HakuGhc,212147,4,Beyoncé,Countdown,89,61,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.422,0.712,11,-5.907,0,0.1,0.273,0.0,0.051,0.471,78.454,2CvOqDpQIMw69cCzWqr5yr,261160,4,Beyoncé,Halo,89,70,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.418,0.441,11,-11.522,0,0.283,0.029,0.0707,0.306,0.172,175.928,5hgnY0mVcVetszbb85qeDg,319467,4,Beyoncé,Partition,89,67,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.601,0.636,8,-5.732,1,0.0938,0.279,0.0,0.453,0.351,86.997,5fv7SEAPH6EYuhFujpzVyv,333733,4,JAY Z,Part II (On The Run),86,1,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.63,0.504,6,-6.152,1,0.0334,0.0953,0.0,0.308,0.487,89.946,1oQZk2bKBLgP1cbuFKvjkq,249867,4,Beyoncé,If I Were a Boy,89,65,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.648,0.593,10,-6.267,1,0.0509,0.0188,0.0,0.169,0.719,160.984,42qh86p7TLXyumxSHn65kc,245480,4,Beyoncé,Party,89,58,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.763,0.728,7,-4.944,1,0.326,0.00677,1.22e-05,0.0915,0.362,105.923,3fDLrzTTj6wUvMIMG57Qu9,239960,4,Beyoncé,Deja Vu,89,31,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.403,0.784,2,-7.584,0,0.171,0.187,0.00177,0.165,0.275,179.427,63dETSxIKCdUHGzlUyCjWb,266253,3,JAY Z,Lift Off,86,12,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.435,0.525,5,-9.753,1,0.363,0.168,0.0,0.22,0.681,84.2,7hU88dWKOrWmfLk0HhQvSV,219160,5,Beyoncé,That's How You Like It,89,0,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.817,0.775,4,-4.895,0,0.22,0.0109,0.000156,0.31,0.81,124.811,0KWcXVBULePvjP7hbXfsA8,198240,4,Beyoncé,Welcome To Hollywood,89,19,"['dance pop', 'pop', 'r&b']",ON THE RUN
+0.863,0.705,8,-6.202,1,0.31,0.05,2.21e-05,0.524,0.599,145.099,63OmVzNwoMNn6hT7p5vwvX,189013,4,JAY Z,Tom Ford,86,1,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.611,0.464,10,-8.068,0,0.294,0.0171,0.214,0.0794,0.274,127.766,2VgK91p2fUZ5iqm3hJHma6,243413,4,JAY Z,F*ckwithmeyouknowigotit,86,2,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.365,0.943,11,-5.274,0,0.474,0.219,0.0,0.39,0.456,177.919,5EqZa2IwIMYE3c3wYh8Ccc,237920,4,JAY Z,Oceans,86,1,"['east coast hip hop', 'hip hop', 'rap']",ON THE RUN
+0.525,0.334,0,-11.54,1,0.0686,0.641,0.0,0.114,0.185,80.307,49sXkAcR5LvOrtq5Qcn5cf,276560,3,Beyoncé,Superpower,89,53,"['dance pop', 'pop', 'r&b']",ON THE RUN
